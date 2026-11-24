@@ -1,0 +1,2 @@
+-keep class com.retropocket.libretro.LibretroBridge { *; }
+-keep class com.retropocket.libretro.LibretroBridge$Callbacks { *; }
